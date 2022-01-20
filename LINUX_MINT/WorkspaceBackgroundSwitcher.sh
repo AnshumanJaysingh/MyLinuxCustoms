@@ -1,7 +1,8 @@
 #!/bin/bash
-# Workspace desktop image switcher WDIS 1.0
+
 # Script to change the desktop image when switching workspaces.
-# Tested on Linux Mint 13 'cinnamon'
+# Add script to startup apps for autorun
+
 desktop_dir="/home/anshu/Pictures/dtbg/" # full path to images directory; 
 desktop_img[0]="nord1.jpg"
 desktop_img[1]="nord_mount.jpg"
