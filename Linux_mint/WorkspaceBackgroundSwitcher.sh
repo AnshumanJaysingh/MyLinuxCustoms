@@ -2,6 +2,7 @@
 
 # Script to change the desktop image when switching workspaces.
 # Add script to startup apps for autorun
+# Tested with Linux Mint 20.2 and older
 
 desktop_dir="/home/anshu/Pictures/dtbg/" # full path to images directory; 
 desktop_img[0]="nord1.jpg"
